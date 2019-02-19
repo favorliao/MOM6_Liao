@@ -7,7 +7,7 @@ module load netcdf/intel-16.0/hdf5-1.8.16/intel-mpi/4.4.0
 
 EXENAME="mom1902"
 #EXENAME="geoclime1203temp"
-#
+#liao
 #double check the code directory, should use geoclime codes
 BASEDIR="/tigress/GEOCLIM/LRGROUP/Liao/MOM6-Liao"
 #
