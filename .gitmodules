@@ -1,6 +1,6 @@
 [submodule "src/FMS"]
 	path = src/FMS
-	url = https://github.com/NOAA-GFDL/FMS.git
+	url = https://github.com/favorliao/FMS.git
 [submodule "src/MOM6"]
 	path = src/MOM6
 	url = https://github.com/NOAA-GFDL/MOM6.git
