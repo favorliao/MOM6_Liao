@@ -27,6 +27,7 @@
 [submodule "src/atmos_null"]
 	path = src/atmos_null
 	url = https://github.com/NOAA-GFDL/atmos_null.git
+        branch = master
 [submodule "src/land_null"]
 	path = src/land_null
 	url = https://github.com/NOAA-GFDL/land_null.git
