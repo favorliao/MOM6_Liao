@@ -8,6 +8,7 @@
 [submodule "src/SIS2"]
 	path = src/SIS2
 	url = https://github.com/NOAA-GFDL/SIS2.git
+        branch = dev/gfdl
 [submodule "tools/matlab/gtools"]
 	path = tools/matlab/gtools
 	url = https://github.com/Adcroft/gtools.git
@@ -17,6 +18,7 @@
 [submodule "src/icebergs"]
 	path = src/icebergs
 	url = https://github.com/NOAA-GFDL/icebergs.git
+        branch = dev/gfdl
 [submodule "src/coupler"]
 	path = src/coupler
 	url = https://github.com/NOAA-GFDL/coupler.git
