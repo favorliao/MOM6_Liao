@@ -11,7 +11,7 @@ EXENAME="mom1902"
 #double check the code directory, should use geoclime codes
 BASEDIR="/tigress/GEOCLIM/LRGROUP/Liao/MOM6-Liao"
 #
-MKF_TEMPLATE="$BASEDIR/src/mkmf/templates/tigercpu-intel_optimized.mk"
+MKF_TEMPLATE="$BASEDIR/tigercpu-intel_optimized.mk"
  
 echo "Compile FMS"
 mkdir -p build/intel/shared/repro/
