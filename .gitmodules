@@ -5,6 +5,7 @@
 [submodule "src/MOM6"]
 	path = src/MOM6
 	url = https://github.com/favorliao/MOM6.git
+        branch = mom6_liao_budget
 [submodule "src/SIS2"]
 	path = src/SIS2
 	url = https://github.com/NOAA-GFDL/SIS2.git
